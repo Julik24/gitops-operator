@@ -5,3 +5,4 @@ delete:
   kind: ArgoCD
   name: example-argocd-2
   namespace: test-1-56-target-2
+  

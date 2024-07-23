@@ -7,7 +7,7 @@ spec:
   config:
     env:
       - name: DISABLE_DEFAULT_ARGOCD_CONSOLELINK
-        value: ''
+        value: 'false'
 ---
 apiVersion: console.openshift.io/v1
 kind: ConsoleLink
